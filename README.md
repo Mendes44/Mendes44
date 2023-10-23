@@ -2,8 +2,8 @@ Eu sou Marcos Mendes, um apaixonado por tecnologia e programação. Bem-vindo ao
 
 ## Sobre mim
 {
-- 💼 Atualmente, sou empresário no setor tecnologia da informação e estou explorando a área de programação.
-- 🌱 Estou constantemente aprendendo e aprimorando minhas habilidades em java, python, segurança e partes técnicas em hardware também.
+- 💼 Atualmente, sou empresário no setor tecnologia da informação e estou querendo migrar para área de programação.
+- 🌱 Estou constantemente aprendendo e aprimorando minhas habilidades em java, python, javascript, segurança da informação e partes técnicas em hardware também.
 - 💻 Eu acredito na colaboração e no poder do código aberto para impulsionar inovação.
 
 ## Meus Projetos
