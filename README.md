@@ -2,18 +2,18 @@ Eu sou Marcos Mendes, um apaixonado por tecnologia e programação. Bem-vindo ao
 
 ## Sobre mim
 {
-- 💼 Atualmente, sou empresário no setor tecnologia da informação e estou querendo migrar para área de programação.
+- 💼 Atualmente, estou aberto a porposta. Trabalho com freelances. 
 - 🌱 Estou constantemente aprendendo e aprimorando minhas habilidades em java, python, javascript, segurança da informação e partes técnicas em hardware também.
 - 💻 Eu acredito na colaboração e no poder do código aberto para impulsionar inovação.
 
 ## Meus Projetos
+https://github.com/Mendes44/programPedidos
 
-Em breve postarei meus projetos aqui... e TMJ!
 
 ## Contato
 
 - 📧 Você pode entrar em contato comigo por e-mail em marcosmendesm10@gmail.com.
-- 🔗 Conecte-se comigo no LinkedIn linkedin.com/in/marcos-mendes-10b22811a para networking e colaborações.
+- 🔗 Conecte-se comigo no LinkedIn linkedin.com/in/marcosmendes44 para networking e colaborações.
 
 ## Minhas Redes Sociais
 
