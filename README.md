@@ -12,7 +12,9 @@
 
 - Um pézinho a mais no Backend ⌨️<br>
 - Gosto de Sempre obter mais conhecimento com isso venho buscando crescimento e oportunidades📚<br>
-- Participando do Bootcamp Potência Tech Ifood Programação do Zero pela DIO.🚀
+- Ja participei:
+- Bootcamp Potência Tech Ifood Programação do Zero pela DIO.🚀
+- BootCamp Santander 2024 - Preparatorio para Certficação AWS 🚀
 - Adoro praticas esportivas como: Bike🚵🏼‍♂️, Karate🥋, Academia💪🏻 e Futebol⚽<br>
  <br>
 
