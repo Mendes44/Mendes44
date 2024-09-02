@@ -15,6 +15,7 @@
 - Ja participei:
 - Bootcamp Potência Tech Ifood Programação do Zero pela DIO.🚀
 - BootCamp Santander 2024 - Preparatorio para Certficação AWS 🚀
+- Sou Certificado AWS Cloud Practitioner
 - Adoro praticas esportivas como: Bike🚵🏼‍♂️, Karate🥋, Academia💪🏻 e Futebol⚽<br>
  <br>
 
